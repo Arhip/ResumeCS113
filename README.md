@@ -4,8 +4,8 @@
 
 ## Education
 
-MiraCosta College, Oceanside, CA – current, started August 2016.
-High school - Canyon Crest Academy, San Diego, CA – graduated 2016.
+- MiraCosta College, Oceanside, CA – current, started August 2016.
+- High school - Canyon Crest Academy, San Diego, CA – graduated 2016.
 
 ## Skills
 
