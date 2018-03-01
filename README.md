@@ -18,25 +18,25 @@
 
 # Work Experience
 &nbsp;
-## - Keyboard Designer
+## Keyboard Designer
 
 - 2016 - Present
 
 In 2016 I began designing a custom mechanical keyboard. I did freelancing work for TheVan Keyboards in which I designed their 2nd     flagship keyboard, the BananaSplit60. During that time I collaborated with artists, worked on R&D, ran the social media platforms, and    acquired deals with varying manufacturers. To this day we have ran two successful groupbuys with an approximate 300 units sold. I am    still designing and working on future projects with the same people.
 
-## - IT Technician/Help Desk
+## IT Technician/Help Desk
 
 - 2016 - Present
 
 Experience in customer service and general help desk tasks associated with computer problems and maintenance. Worked on large scale projects, writing scripts to push campus-wide patches. Help maintain network switches and subnet management. General experience in troubleshooting issues with Windows and Mac OS X machines. 
 
-## - Lab Assistant Internship
+## Lab Assistant Internship
 
 - 2015 - 2016, Professor Zhao lab, Division of Biological Sciences, UCSD
 
 Experience in lab research pertaining to the gene mutations of the plant arabidopsis. Also maintained and serviced lab machinery.
 
-## - Martial Arts Instructor
+## Martial Arts Instructor
 
 - 2012 - 2016, American Family Martial Arts Studio
 
