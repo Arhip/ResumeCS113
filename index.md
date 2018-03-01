@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Arhip Bobkov
 
-You can use the [editor on GitHub](https://github.com/Arhip/ResumeCS113/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Contact Info:** [Email](derigerearhip@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+MiraCosta College, Oceanside, CA – current, started August 2016.
+High school - Canyon Crest Academy, San Diego, CA – graduated 2016.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+- Programming Languages: Java
+- Operating Systems: Windows, Mac OS X, Linux (Ubuntu)
+- Foreign Languages: Fluent native Russian speaker/writer
+- CAD Experience: 3dsMax, Fusin 360
+- PCB Design: KiCAD
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Work Experience
 
-1. Numbered
-2. List
+## Keyboard Designer
 
-**Bold** and _Italic_ and `Code` text
+- 2016 - Present
 
-[Link](url) and ![Image](src)
-```
+In 2016 I began designing a custom mechanical keyboard. I did freelancing work for TheVan Keyboards in which I designed their 2nd     flagship keyboard, the BananaSplit60. During that time I collaborated with artists, worked on R&D, ran the social media platforms, and    acquired deals with varying manufacturers. To this day we have ran two successful groupbuys with an approximate 300 units sold. I am    still designing and working on future projects with the same people.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## IT Technician/Help Desk
 
-### Jekyll Themes
+- 2016 - Present
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arhip/ResumeCS113/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Experience in customer service and general help desk tasks associated with computer problems and maintenance. Worked on large scale projects, writing scripts to push campus-wide patches. Help maintain network switches and subnet management. General experience in troubleshooting issues with Windows and Mac OS X machines. 
 
-### Support or Contact
+## Lab Assistant Internship
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 2015 - 2016, Professor Zhao lab, Division of Biological Sciences, UCSD
+
+Experience in lab research pertaining to the gene mutations of the plant arabidopsis. Also maintained and serviced lab machinery.
+
+## Martial Arts Instructor
+
+- 2012 - 2016, American Family Martial Arts Studio
+
+Trained in martial arts for over 10 years and received my adult black belt degree in 2014. In addition to training, I participated in competitions and performed at events; part of my Taekwondo experience was teaching the lower levels classes to starting martial artists.
+
+
