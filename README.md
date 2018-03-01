@@ -28,7 +28,7 @@ In 2016 I began designing a custom mechanical keyboard. I did freelancing work f
 
 - 2016 - Present
 
-Experience in customer service and general help desk tasks associated with computer problems and maintenance. Worked on large scale projects, writing scripts to push campus-wide patches. Help maintain network switches and subnet management. General experience in troubleshooting issues with Windows and Mac OS X machines. 
+Experience in customer service and general help desk tasks associated with computer problems and maintenance. Worked on large scale projects, writing scripts to push campus-wide patches. Help maintain network switches, subnet management and Active Directory creation and maintenance. General experience in troubleshooting issues with Windows and Mac OS X machines. 
 
 ## Lab Assistant Internship
 
