@@ -1,15 +1,16 @@
 ## Arhip Bobkov
 
-**Contact Info:** [Email](derigerearhip@gmail.com)
+**Contact Info:** [Company Email](arhip@thevankeyboards.com) or [School Email](abobkov@ucsc.edu) 
 
 ## Education
 
-- MiraCosta College, Oceanside, CA – current, started August 2016.
+- University of California Santa Cruz, Santa Cruz, CA - current, started September 2018
+- MiraCosta College, Oceanside, CA – August 2016 - graduated May 2018.
 - High school - Canyon Crest Academy, San Diego, CA – graduated 2016.
 
 ## Skills
 
-- Programming Languages: Java
+- Programming Languages: Java, Javacsript
 - Operating Systems: Windows, Mac OS X, Linux (Ubuntu)
 - Foreign Languages: Fluent native Russian speaker/writer
 - CAD Experience: 3dsMax, Fusin 360
@@ -24,9 +25,9 @@
 
 In 2016 I began designing a custom mechanical keyboard. I did freelancing work for TheVan Keyboards in which I designed their 2nd     flagship keyboard, the BananaSplit60. During that time I collaborated with artists, worked on R&D, ran the social media platforms, and    acquired deals with varying manufacturers. To this day we have ran two successful groupbuys with an approximate 300 units sold. I am    still designing and working on future projects with the same people.
 
-## IT Technician/Help Desk
+## IT Technician/Help Desk at Biology Computer Services at UCSD
 
-- 2016 - Present
+- 2016 - August of 2018
 
 Experience in customer service and general help desk tasks associated with computer problems and maintenance. Worked on large scale projects, writing scripts to push campus-wide patches. Help maintain network switches, subnet management and Active Directory creation and maintenance. General experience in troubleshooting issues with Windows and Mac OS X machines. 
 
