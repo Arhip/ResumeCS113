@@ -13,7 +13,8 @@
 - Programming Languages: Java, Javacsript
 - Operating Systems: Windows, Mac OS X, Linux (Ubuntu)
 - Foreign Languages: Fluent native Russian speaker/writer
-- CAD Experience: 3dsMax, Fusin 360
+- CAD Experience: 3dsMax, Fusion 360
+- Vector Design: Inkscape, Illustrator
 - PCB Design: KiCAD
 
 
