@@ -1,6 +1,6 @@
 ## Arhip Bobkov
 
-**Contact Info:** [Company Email](arhip@thevankeyboards.com) or [School Email](abobkov@ucsc.edu) 
+**Contact Info:** Company Email: arhip@thevankeyboards.com or School Email: abobkov@ucsc.edu
 
 ## Education
 
